@@ -67,12 +67,12 @@ resist stochastic noise and transient spikes, and
 re‑enter plastic mode when sustained evidence indicates a paradigm shift.
 
 ---
-📖 **Full Technical Documentation available in Neuron_Memorabilis_Specs_EN.pdf**
 
 No additional control logic is needed: each NeuronMemorabilis instance updates its own memories, applies the humility rule, decides on immortality, and cuts gradients for immortal units internally.
 
 📖 Deep Dive
-The full mathematical rationale (merit definition, memory dynamics, humility inequality, and immortality thresholding) is available in the technical documentation (Neuron_Memorabilis_Specs.pdf).
+The full mathematical rationale (merit definition, memory dynamics, humility inequality, and immortality thresholding) is available in the technical documentation, with the author. 
+If you have any questions, please consult the author.
 
 ---
 *Created by The Architect. Stabilizing the future of intelligence through historical conviction.*
