@@ -76,3 +76,6 @@ The full mathematical rationale (merit definition, memory dynamics, humility ine
 
 ---
 *Created by The Architect. Stabilizing the future of intelligence through historical conviction.*
+
+contact email: carlosjorgereis@gmail.com
+
